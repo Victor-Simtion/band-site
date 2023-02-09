@@ -136,6 +136,8 @@
 
 .merchNav{
   grid-area: 4 / 2 / 5 / 3;
+  display: flex;
+  flex-direction: row;
 }
 
 .merchNav ul{
@@ -160,6 +162,7 @@
   text-decoration: none;
   color:var(--lime);
   box-shadow: 4px 4px 5px var(--orange);
+  border: none;
  
 }
 
@@ -173,6 +176,7 @@
   margin-right: 10px;
   text-decoration: none;
   color: black;
+  border: none;
 }
 
 .addButon{

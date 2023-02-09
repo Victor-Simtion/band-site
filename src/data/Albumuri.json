@@ -5,6 +5,7 @@
       "tip":"album",
       "pret":14,
       "disponibil":true,
+      "oferta":true,
       "pic":"album3"
     },
     
@@ -13,7 +14,8 @@
         "nume":"nume",
         "tip":"album",
         "pret":14,
-        "disponibil":true,
+        "disponibil":false,
+        "oferta":false,
         "pic":"album1"
       }
  

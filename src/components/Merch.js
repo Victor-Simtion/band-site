@@ -18,13 +18,13 @@ export function Merch() {
               <option  value="tricouri">Tricouri </option>
               <option  value="albume"> Albume</option>
               <option  value="accesorii"> Accesorii</option>
+              <option value="nou">Noutati</option>
             </select>
             <select>
               <option value="relevanta">Relevanta</option>
               <option value="pretCrescator">Pret Crescator</option>
               <option value="pretDescrescator">Pret Descrescator</option>
               <option value="polupare">Cele mai polupare</option>
-              <option value="nou">Noutati</option>
               <option value="reduceri">Oferte</option>
             </select>
             </div>
@@ -34,7 +34,8 @@ export function Merch() {
       <MerchList/>
       
       <div className='merchNav'>
-      <Link className='button' to="Cos">Vizualizare Cos</Link>
+      <button className='button'>Pagina umratoare</button>
+      <button className='button'>Pagina precedenta</button>
       </div>
   </div> 
   </>

@@ -4,7 +4,8 @@
       "nume":"tricou barbati",
       "tip":"tricou",
       "pret":14,
-      "disponibil":true,
+      "disponibil":false,
+      "oferta":false,
       "pic":"tricou2",
       "marimi":["S","M","L" ]  
     },
@@ -15,8 +16,9 @@
         "tip":"tricou",
         "pret":14,
         "disponibil":true,
+        "oferta":true,        
         "pic":"tricou1",
-        "marimi":["S","M","L" ]  
+        "marimi":["M","L","XL" ]  
       }
  
 

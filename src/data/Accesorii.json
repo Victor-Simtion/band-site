@@ -4,7 +4,8 @@
       "nume":"nume",
       "tip":"accesorii",
       "pret":14,
-      "disponibil":true,
+      "disponibil":false,
+      "oferta":false,
       "pic":"accesoriu1"
     },
     
@@ -14,6 +15,7 @@
         "tip":"accesorii",
         "pret":14,
         "disponibil":true,
+        "oferta":true,
         "pic":"accesoriu2"  
       }
  
