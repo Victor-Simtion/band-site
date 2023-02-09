@@ -1,0 +1,23 @@
+[
+    {
+      "id":1,
+      "nume":"tricou barbati",
+      "tip":"tricou",
+      "pret":14,
+      "disponibil":true,
+      "pic":"tricou2",
+      "marimi":["S","M","L" ]  
+    },
+    
+    {
+        "id":2,
+        "nume":"tricou femei",
+        "tip":"tricou",
+        "pret":14,
+        "disponibil":true,
+        "pic":"tricou1",
+        "marimi":["S","M","L" ]  
+      }
+ 
+
+]

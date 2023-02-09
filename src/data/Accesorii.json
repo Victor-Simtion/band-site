@@ -1,0 +1,21 @@
+[
+    {
+      "id":1,
+      "nume":"nume",
+      "tip":"accesorii",
+      "pret":14,
+      "disponibil":true,
+      "pic":"accesoriu1"
+    },
+    
+    {
+        "id":2,
+        "nume":"nume",
+        "tip":"accesorii",
+        "pret":14,
+        "disponibil":true,
+        "pic":"accesoriu2"  
+      }
+ 
+
+]

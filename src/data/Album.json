@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name":"Album Name",
+        "pic":"album2",
+        "trList":[
+            "Track 1",
+            "Track 2",
+            "Track 3",
+            "Track 4"
+        ]
+    },
+
+    {
+        "id": 2,
+        "name":"Album Name",
+        "pic":"album4",
+        "trList":[
+            "Track 1",
+            "Track 2",
+            "Track 3",
+            "Track 4"
+        ]
+    },
+
+    {
+        "id": 3,
+        "name":"Album Name",
+        "pic":"album1",
+        "trList":[
+            "Track 1",
+            "Track 2",
+            "Track 3",
+            "Track 4"
+        ]
+    }
+]
