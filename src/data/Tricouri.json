@@ -1,24 +1,50 @@
 [
     {
-      "id":1,
-      "nume":"tricou barbati",
+      "id":0,
+      "nume":"tricou alb simplu",
       "tip":"tricou",
-      "pret":14,
+      "pret":100,
       "disponibil":false,
       "oferta":false,
-      "pic":"tricou2",
-      "marimi":["S","M","L" ]  
+      "pic":"plain-white-t-shirt",
+      "marimi":["S","M","L","XL"],
+	  "marimiDisponibile" :["M","L","XL"]
     },
     
     {
-        "id":2,
-        "nume":"tricou femei",
-        "tip":"tricou",
-        "pret":14,
-        "disponibil":true,
-        "oferta":true,        
-        "pic":"tricou1",
-        "marimi":["M","L","XL" ]  
+      "id":1,
+      "nume":"tricou negru simplu",
+      "tip":"tricou",
+      "pret":100,
+      "disponibil":false,
+      "oferta":false,
+      "pic":"plain-black-t-shirt",
+      "marimi":["S","M","L","XL"],
+	  "marimiDisponibile" :["L","XL"]
+      },
+	  
+	  {
+      "id":2,
+      "nume":"tricou mov simplu",
+      "tip":"tricou",
+      "pret":100,
+      "disponibil":false,
+      "oferta":false,
+      "pic":"plain-purple-t-shirt",
+      "marimi":["S","M","L","XL"],
+	  "marimiDisponibile" :["S","M","L","XL"] 
+    },
+    
+    {
+      "id":3,
+      "nume":"tricou albastru simplu",
+      "tip":"tricou",
+      "pret":100,
+      "disponibil":false,
+      "oferta":false,
+      "pic":"plain-blue-t-shirt",
+      "marimi":["S","M","L","XL"],
+	  "marimiDisponibile" :["S","M","L","XL"]
       }
  
 

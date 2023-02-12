@@ -1,6 +1,5 @@
 import React from 'react'
-import {Link } from "react-router-dom";
-import MerchList from './MerchList';
+import CardList from './CardList';
 
 export function Merch() {
   return (
@@ -31,7 +30,7 @@ export function Merch() {
       
       </div>
 
-      <MerchList/>
+      <CardList/>
       
       <div className='merchNav'>
       <button className='button'>Pagina umratoare</button>
