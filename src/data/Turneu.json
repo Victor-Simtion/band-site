@@ -1,0 +1,25 @@
+[
+    {
+        "id":0,
+        "tara":"Romania",
+        "locatie":"Bucuresti",
+        "data":"30.12.2023",
+        "bilete":"www.google.com/"
+    },
+
+    {
+        "id":1,
+        "tara":"Romania",
+        "locatie":"Bucuresti",
+        "data":"30.12.2023",
+        "bilete":"www.google.com/"
+    },
+
+    {
+        "id":2,
+        "tara":"Romania",
+        "locatie":"Bucuresti",
+        "data":"30.12.2023",
+        "bilete":"www.google.com/"
+    }
+]

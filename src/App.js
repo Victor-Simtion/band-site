@@ -1,4 +1,5 @@
 import './App.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
 import {Link, Route, Routes,} from "react-router-dom";
 import {Home} from "./components/Home";
 import { Merch } from './components/Merch';
@@ -11,6 +12,7 @@ import { CheckOut } from './components/CheckOut';
 import { Produs } from './components/Produs';
 import { Contact } from './components/Contact';
 import { Add } from './components/Add';
+
 
 function App() {
   

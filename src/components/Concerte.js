@@ -1,4 +1,6 @@
-import React from 'react'
+import React from 'react';
+import Truneu from "../data/Turneu.json"
+import {Table} from 'react-bootstrap';
 
 export function Concerte() {
   return (
@@ -6,13 +8,41 @@ export function Concerte() {
       <div className='titlu'>
         <h1>Concerte</h1>
       </div>
-      <div className='continut'>Cillum in fugiat excepteur mollit mollit id duis nisi. Nostrud id est esse laborum magna culpa exercitation aliquip velit magna ad cillum id esse. Magna incididunt quis ipsum enim voluptate Lorem ut mollit.
+      <div className='continut'>
+      {
+        
+            <table  className="table table-hover table-dark">
+              <thead className="thead-dark">
+                <tr>
+                  <th scope="col">#</th>
+                  <th scope="col">Tara</th>
+                  <th scope="col">Locatie</th>
+                  <th scope="col">Data</th>
+                  <th scope="col">Bilete</th>
+                </tr>
+              </thead>
+              
+              <tbody>
 
-Mollit sint deserunt et occaecat reprehenderit exercitation qui. Deserunt minim magna mollit aute fugiat fugiat excepteur voluptate labore. Aute sit ea occaecat exercitation enim proident ut aliquip non irure. Excepteur tempor et commodo reprehenderit incididunt cillum fugiat Lorem ex pariatur. Cillum enim ad ipsum qui id adipisicing officia velit aliqua ad ullamco nostrud irure.
-
-Amet non non velit enim ut nostrud occaecat reprehenderit enim veniam deserunt sunt do amet. Elit aliquip anim adipisicing voluptate ut commodo ea do incididunt velit tempor veniam nostrud. Pariatur occaecat non veniam officia.
-
-Duis sint et ad deserunt velit velit elit amet voluptate eu nisi adipisicing. Excepteur ea eiusmod laborum sint duis laborum velit. Mollit nostrud qui exercitation aliquip aliqua adipisicing. Velit minim Lorem sunt id amet do. Non commodo aliquip deserunt est quis. Commodo cupidatat Lorem Lorem fugiat dolore.</div>
+                {Truneu && Truneu.map(truneu =>(
+                  
+                  <tr className='bilete' key={truneu.id}>
+                       <th scope="row">{truneu.id+1}</th>
+                      <td>{truneu.tara}</td> 
+                      <td>{truneu.locatie}</td>
+                      <td>{truneu.data}</td>
+                      <td>
+                        <a className='bilete' href= {`http://${truneu.bilete}`} >Cumapra bilet</a>
+                      </td>
+                    </tr>
+           
+           
+                  ))}
+                </tbody>
+            </table>  
+      }
+    
+    </div>
   </> 
   )
 }
