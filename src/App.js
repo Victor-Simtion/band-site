@@ -12,7 +12,8 @@ import { CheckOut } from './components/CheckOut';
 import { Produs } from './components/Produs';
 import { Contact } from './components/Contact';
 import { Add } from './components/Add';
-
+import NewsCard from './components/NewsCard';
+import AddCard from './components/AddCard';
 
 function App() {
   
@@ -44,31 +45,22 @@ function App() {
 
       <div className='Stiri'>
           <h2>Stiri</h2>
-          <div>
-            <a href ="https://www.google.ro/imghp?hl=en&ogbl" >
+          
+            <NewsCard/>
+
+            {/* <a href ="https://www.google.ro/imghp?hl=en&ogbl" >
               <img className='stiriImg' alt='img' 
                     height='150px'
                   src='https://gratisography.com/wp-content/uploads/2023/01/gratisography-frog-racer-free-stock-photo-800x525.jpg'/>
-            </a>
-          </div>
-          <div>   
-            <a href ="https://www.google.ro/imghp?hl=en&ogbl" >
-              <img className='stiriImg' alt='img' 
-                    height='150px'
-                  src='https://gratisography.com/wp-content/uploads/2023/01/gratisography-frog-racer-free-stock-photo-800x525.jpg'/>
-            </a>
-          </div>
+            </a>*/}
+          
       </div>
 
 
       <div className='Adds'>
           <div><Link className='addButon' to="Add">Reclama ta aici</Link></div>
           <div>   
-            <a href ="https://gymbeam.ro/colla-pink-beastpink.html" >
-              <img className='addImg' alt='img' 
-                    height='150px'
-                  src='https://gymbeam.ro/media/catalog/product/cache/70f742f66feec18cb83790f14444a3d1/c/o/colla_pink_mango.png'/>
-            </a>
+            <AddCard/>
           </div>
           <div><Link className='addButon' to="Add">Reclama ta aici</Link></div>
 

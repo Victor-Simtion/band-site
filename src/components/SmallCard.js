@@ -1,11 +1,8 @@
 import React from 'react';
-import "./SmallCard.css";
 
 export default function SmallCard({tip, nume, pret, pic, stoc }) {
   return (
    
-<body>
-
     <div className="container">
         <div className="card">
             <div className="imgBx">
@@ -36,8 +33,6 @@ export default function SmallCard({tip, nume, pret, pic, stoc }) {
 
         </div>
     </div>
-
-</body>
   
   )
 }

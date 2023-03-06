@@ -1,0 +1,33 @@
+[
+{
+    "id":0,
+    "link":"2017/10/06/html-syntax/",
+    "image":"images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&resize_w=1500&url=https://codetheweb.blog/assets/img/posts/html-syntax/cover.jpg",
+    "titlu":"HTML Syntax",
+    "text":"The syntax of a language is how it works. How to actually write it. Learn HTML syntax…",
+    "date":"6 Oct 2017",
+    "tag":"HTML"
+},
+
+{
+    "id":1,
+    "link":"2017/10/09/basic-types-of-html-tags/",
+    "image":"images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&resize_w=1500&url=https://codetheweb.blog/assets/img/posts/basic-types-of-html-tags/cover.jpg",
+    "titlu":"Basic types of HTML tags",
+    "text":"Learn about some of the most common HTML tags…",
+    "date":"9 Oct 2017",
+    "tag":"HTML"
+},
+
+{
+    "id":2,
+    "link":"2017/10/14/links-images-about-file-paths/",
+    "image":"images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&resize_w=1500&url=https://codetheweb.blog/assets/img/posts/links-images-about-file-paths/cover.jpg",
+    "titlu":"Links, images and about file paths",
+    "text":"Learn how to use links and images along with file paths…",
+    "date":"14 Oct 2017",
+    "tag":"HTML"
+
+}
+
+]
