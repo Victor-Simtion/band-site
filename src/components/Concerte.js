@@ -1,6 +1,6 @@
 import React from 'react';
 import Truneu from "../data/Turneu.json"
-import {Table} from 'react-bootstrap';
+
 
 export function Concerte() {
   return (

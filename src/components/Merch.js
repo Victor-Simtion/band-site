@@ -33,8 +33,8 @@ export function Merch() {
       <CardList/>
       
       <div className='merchNav'>
-      <button className='button'>Pagina umratoare</button>
-      <button className='button'>Pagina precedenta</button>
+      <button className='navButon'>Pagina umratoare</button>
+      <button className='navButon'>Pagina precedenta</button>
       </div>
   </div> 
   </>

@@ -1,5 +1,5 @@
 import './App.css';
-import 'bootstrap/dist/css/bootstrap.min.css';
+
 import {Link, Route, Routes,} from "react-router-dom";
 import {Home} from "./components/Home";
 import { Merch } from './components/Merch';
@@ -14,6 +14,7 @@ import { Contact } from './components/Contact';
 import { Add } from './components/Add';
 import NewsCard from './components/NewsCard';
 import AddCard from './components/AddCard';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
   
@@ -21,11 +22,11 @@ function App() {
     <div className='Body'>
       <nav className='navigatie'>
         <ul>
-          <li><Link className='button' to="/">Home</Link></li>
-          <li><Link className='button' to="/Discografie">Discografie</Link></li>
-          <li><Link className='button' to="/Concerte">Concerte</Link></li>
-          <li><Link className='button' to="/Media">Media</Link></li>
-          <li><Link className='button' to="/Merch">Magazin</Link></li>
+          <li><Link className='navButon' to="/">Home</Link></li>
+          <li><Link className='navButon' to="/Discografie">Discografie</Link></li>
+          <li><Link className='navButon' to="/Concerte">Concerte</Link></li>
+          <li><Link className='navButon' to="/Media">Media</Link></li>
+          <li><Link className='navButon' to="/Merch">Magazin</Link></li>
         </ul>
       </nav>
       <Routes>

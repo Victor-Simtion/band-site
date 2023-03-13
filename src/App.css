@@ -169,10 +169,10 @@
 
 }
 
-.button{
+.navButon{
   background-color: var(--fundal);
   border-radius: 10px;
-  font-size: 20px;
+  font-size: 15px;
   padding: 5px;
   cursor: pointer;
   margin-right: 10px;
@@ -224,9 +224,24 @@
   justify-content: space-around;
 }
 
+.filtrare input{
+  color:var(--lime);
+  background-color: var(--gri);
+}
+
+.filtrare input ::placeholder{
+  color: red;
+  opacity: 1;
+}
+
 .filtre select{
   cursor: pointer;
+  color: var(--orange);
+  background-color: var(--gri);
+  border: var(--fundal) 1px solid;
+
 }
+
 
 .bilete{
   text-decoration: none;
