@@ -1,8 +1,14 @@
 import React from 'react';
-import Truneu from "../data/Turneu.json"
+import turnee from "../data/Turneu.json"
 
 
 export function Concerte() {
+  
+  turnee.map( turneu =>
+    turneu.data=new Date(turneu.data)
+  );
+  turnee.sort((a, b) => a.data - b.data)
+
   return (
   <>
       <div className='titlu'>
@@ -14,7 +20,7 @@ export function Concerte() {
             <table  className="table table-hover table-dark">
               <thead className="thead-dark">
                 <tr>
-                  <th scope="col">#</th>
+                  {/* <th scope="col">#</th> */}
                   <th scope="col">Tara</th>
                   <th scope="col">Locatie</th>
                   <th scope="col">Data</th>
@@ -24,15 +30,15 @@ export function Concerte() {
               
               <tbody>
 
-                {Truneu && Truneu.map(truneu =>(
+                {turnee && turnee.map(turneu =>(
                   
-                  <tr className='bilete' key={truneu.id}>
-                       <th scope="row">{truneu.id+1}</th>
-                      <td>{truneu.tara}</td> 
-                      <td>{truneu.locatie}</td>
-                      <td>{truneu.data}</td>
+                  <tr className='bilete' key={turneu.id}>
+                       {/* <th scope="row">{turneu.id+1}</th> */}
+                      <td>{turneu.tara}</td> 
+                      <td>{turneu.locatie}</td>
+                      <td>{turneu.data.toLocaleString(['en-GB'], {year: 'numeric', month: 'numeric', day: 'numeric'})}</td>
                       <td>
-                        <a className='bilete' href= {`http://${truneu.bilete}`} >Cumapra bilet</a>
+                        <a className='bilete' href= {`http://${turneu.bilete}`} >Cumapra bilet</a>
                       </td>
                     </tr>
            
