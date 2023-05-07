@@ -4,7 +4,7 @@ import Album from '../data/Album.json';
 
 export default function AlbumList() {
   return (
-    <div className='content'>
+    <div >
       {
         Album && Album.map(album =>(
             <div key={album.id}>

@@ -8,7 +8,9 @@ export function Discografie() {
           <h1>Discografie</h1>
         </div>
         <div className='continut'>
+        <div className='continutPrim'>
            <div ><AlbumList/></div>
+         </div>
       </div>
         
     </>

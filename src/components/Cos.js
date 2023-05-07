@@ -11,8 +11,8 @@ export function Cos() {
         <div className='content'>
             <div className='merchNav'>
               <ul>
-                  <Link className='button' to="CheckOut">Finalizare Comanda</Link>
-                  <Link className='button' to="/Merch">Inapoi la cumparaturi</Link>
+                  <Link className='navButon' to="CheckOut">Finalizare Comanda</Link>
+                  <Link className='navButon' to="/Merch">Inapoi la cumparaturi</Link>
               </ul>
             </div>
         </div>

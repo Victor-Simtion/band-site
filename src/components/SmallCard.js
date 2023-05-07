@@ -12,6 +12,7 @@ export default function SmallCard({tip, nume, pret, pic, stoc }) {
             <div className="contentBx">
 
                 <h2>{nume}</h2>
+                <h6>{tip}</h6>
 
                 <div className="size">
                     <h3>Size :</h3>
@@ -28,7 +29,7 @@ export default function SmallCard({tip, nume, pret, pic, stoc }) {
                     <span></span>
                     <span></span>
                 </div>
-                <p>Buy Now</p>
+                <p>Pret {pret}</p>
             </div>
 
         </div>

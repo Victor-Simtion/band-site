@@ -1,0 +1,801 @@
+[{
+    "id": 1,
+    "tip": "albume",
+    "pic":"plain-black-t-shirt",
+    "nume": "Andrault",
+    "pret": 283.52,
+    "disponibil": true,
+    "oferta": false
+  }, {
+    "id": 2,
+    "tip": "albume",
+    "pic":"plain-black-t-shirt",
+    "nume": "Toffts",
+    "pret": 295.05,
+    "disponibil": true,
+    "oferta": false
+  }, {
+    "id": 3,
+    "tip": "albume",
+    "pic":"plain-black-t-shirt",
+    "nume": "Shercliff",
+    "pret": 115.15,
+    "disponibil": true,
+    "oferta": false
+  }, {
+    "id": 4,
+    "tip": "accesorii",
+    "pic":"plain-black-t-shirt",
+    "nume": "Waggitt",
+    "pret": 217.42,
+    "disponibil": true,
+    "oferta": false
+  }, {
+    "id": 5,
+    "tip": "accesorii",
+    "pic":"plain-black-t-shirt",
+    "nume": "Popping",
+    "pret": 93.67,
+    "disponibil": false,
+    "oferta": false
+  }, {
+    "id": 6,
+    "tip": "accesorii",
+    "pic":"plain-black-t-shirt",
+    "nume": "Yggo",
+    "pret": 106.45,
+    "disponibil": true,
+    "oferta": false
+  }, {
+    "id": 7,
+    "tip": "accesorii",
+    "pic":"plain-black-t-shirt",
+    "nume": "Branchet",
+    "pret": 150.09,
+    "disponibil": false,
+    "oferta": true
+  }, {
+    "id": 8,
+    "tip": "albume",
+    "pic":"plain-black-t-shirt",
+    "nume": "Clew",
+    "pret": 293.81,
+    "disponibil": true,
+    "oferta": true
+  }, {
+    "id": 9,
+    "tip": "albume",
+    "pic":"plain-black-t-shirt",
+    "nume": "Brownsell",
+    "pret": 106.54,
+    "disponibil": true,
+    "oferta": false
+  }, {
+    "id": 10,
+    "tip": "tricouri",
+    "pic":"plain-black-t-shirt",
+    "nume": "Townrow",
+    "pret": 214.66,
+    "disponibil": true,
+    "oferta": true
+  }, {
+    "id": 11,
+    "tip": "tricouri",
+    "pic":"plain-black-t-shirt",
+    "nume": "Dimnage",
+    "pret": 217.7,
+    "disponibil": false,
+    "oferta": true
+  }, {
+    "id": 12,
+    "tip": "accesorii",
+    "pic":"plain-black-t-shirt",
+    "nume": "Capin",
+    "pret": 27.5,
+    "disponibil": false,
+    "oferta": false
+  }, {
+    "id": 13,
+    "tip": "tricouri",
+    "pic":"plain-black-t-shirt",
+    "nume": "Urpeth",
+    "pret": 98.38,
+    "disponibil": false,
+    "oferta": true
+  }, {
+    "id": 14,
+    "tip": "accesorii",
+    "pic":"plain-black-t-shirt",
+    "nume": "Klaus",
+    "pret": 231.59,
+    "disponibil": false,
+    "oferta": true
+  }, {
+    "id": 15,
+    "tip": "tricouri",
+    "pic":"plain-black-t-shirt",
+    "nume": "Harmar",
+    "pret": 156.61,
+    "disponibil": false,
+    "oferta": true
+  }, {
+    "id": 16,
+    "tip": "albume",
+    "pic":"plain-black-t-shirt",
+    "nume": "Chaunce",
+    "pret": 98.32,
+    "disponibil": false,
+    "oferta": false
+  }, {
+    "id": 17,
+    "tip": "accesorii",
+    "pic":"plain-black-t-shirt",
+    "nume": "Craigg",
+    "pret": 31.36,
+    "disponibil": false,
+    "oferta": true
+  }, {
+    "id": 18,
+    "tip": "tricouri",
+    "pic":"plain-black-t-shirt",
+    "nume": "Pirouet",
+    "pret": 279.36,
+    "disponibil": true,
+    "oferta": false
+  }, {
+    "id": 19,
+    "tip": "albume",
+    "pic":"plain-black-t-shirt",
+    "nume": "Ivermee",
+    "pret": 196.89,
+    "disponibil": false,
+    "oferta": false
+  }, {
+    "id": 20,
+    "tip": "tricouri",
+    "pic":"plain-black-t-shirt",
+    "nume": "Ruselin",
+    "pret": 205.83,
+    "disponibil": false,
+    "oferta": false
+  }, {
+    "id": 21,
+    "tip": "albume",
+    "pic":"plain-black-t-shirt",
+    "nume": "Eastcourt",
+    "pret": 265.15,
+    "disponibil": false,
+    "oferta": true
+  }, {
+    "id": 22,
+    "tip": "albume",
+    "pic":"plain-black-t-shirt",
+    "nume": "Orwin",
+    "pret": 86.04,
+    "disponibil": false,
+    "oferta": true
+  }, {
+    "id": 23,
+    "tip": "albume",
+    "pic":"plain-black-t-shirt",
+    "nume": "Punchard",
+    "pret": 256.13,
+    "disponibil": false,
+    "oferta": false
+  }, {
+    "id": 24,
+    "tip": "tricouri",
+    "pic":"plain-black-t-shirt",
+    "nume": "Meak",
+    "pret": 292.28,
+    "disponibil": true,
+    "oferta": true
+  }, {
+    "id": 25,
+    "tip": "accesorii",
+    "pic":"plain-black-t-shirt",
+    "nume": "Pancoust",
+    "pret": 99.87,
+    "disponibil": false,
+    "oferta": false
+  }, {
+    "id": 26,
+    "tip": "albume",
+    "pic":"plain-black-t-shirt",
+    "nume": "Vinden",
+    "pret": 147.21,
+    "disponibil": true,
+    "oferta": true
+  }, {
+    "id": 27,
+    "tip": "albume",
+    "pic":"plain-black-t-shirt",
+    "nume": "Povall",
+    "pret": 81.12,
+    "disponibil": true,
+    "oferta": true
+  }, {
+    "id": 28,
+    "tip": "tricouri",
+    "pic":"plain-black-t-shirt",
+    "nume": "Kubes",
+    "pret": 216.09,
+    "disponibil": false,
+    "oferta": false
+  }, {
+    "id": 29,
+    "tip": "albume",
+    "pic":"plain-black-t-shirt",
+    "nume": "Fossick",
+    "pret": 32.01,
+    "disponibil": true,
+    "oferta": true
+  }, {
+    "id": 30,
+    "tip": "tricouri",
+    "pic":"plain-black-t-shirt",
+    "nume": "Baulk",
+    "pret": 87.38,
+    "disponibil": true,
+    "oferta": true
+  }, {
+    "id": 31,
+    "tip": "albume",
+    "pic":"plain-black-t-shirt",
+    "nume": "Marchand",
+    "pret": 277.44,
+    "disponibil": true,
+    "oferta": true
+  }, {
+    "id": 32,
+    "tip": "albume",
+    "pic":"plain-black-t-shirt",
+    "nume": "Cartlidge",
+    "pret": 180.27,
+    "disponibil": false,
+    "oferta": false
+  }, {
+    "id": 33,
+    "tip": "albume",
+    "pic":"plain-black-t-shirt",
+    "nume": "Middlewick",
+    "pret": 181.71,
+    "disponibil": true,
+    "oferta": true
+  }, {
+    "id": 34,
+    "tip": "accesorii",
+    "pic":"plain-black-t-shirt",
+    "nume": "Magee",
+    "pret": 234.11,
+    "disponibil": false,
+    "oferta": true
+  }, {
+    "id": 35,
+    "tip": "tricouri",
+    "pic":"plain-black-t-shirt",
+    "nume": "Kedward",
+    "pret": 79.02,
+    "disponibil": false,
+    "oferta": true
+  }, {
+    "id": 36,
+    "tip": "tricouri",
+    "pic":"plain-black-t-shirt",
+    "nume": "Feek",
+    "pret": 98.69,
+    "disponibil": true,
+    "oferta": false
+  }, {
+    "id": 37,
+    "tip": "accesorii",
+    "pic":"plain-black-t-shirt",
+    "nume": "Corneil",
+    "pret": 251.88,
+    "disponibil": true,
+    "oferta": true
+  }, {
+    "id": 38,
+    "tip": "tricouri",
+    "pic":"plain-black-t-shirt",
+    "nume": "Nevet",
+    "pret": 53.73,
+    "disponibil": true,
+    "oferta": true
+  }, {
+    "id": 39,
+    "tip": "albume",
+    "pic":"plain-black-t-shirt",
+    "nume": "Joe",
+    "pret": 280.15,
+    "disponibil": true,
+    "oferta": false
+  }, {
+    "id": 40,
+    "tip": "accesorii",
+    "pic":"plain-black-t-shirt",
+    "nume": "Mabbot",
+    "pret": 238.73,
+    "disponibil": false,
+    "oferta": false
+  }, {
+    "id": 41,
+    "tip": "tricouri",
+    "pic":"plain-black-t-shirt",
+    "nume": "Hake",
+    "pret": 189.69,
+    "disponibil": false,
+    "oferta": false
+  }, {
+    "id": 42,
+    "tip": "accesorii",
+    "pic":"plain-black-t-shirt",
+    "nume": "Arrigucci",
+    "pret": 269.5,
+    "disponibil": false,
+    "oferta": false
+  }, {
+    "id": 43,
+    "tip": "accesorii",
+    "pic":"plain-black-t-shirt",
+    "nume": "Troucher",
+    "pret": 234.77,
+    "disponibil": true,
+    "oferta": true
+  }, {
+    "id": 44,
+    "tip": "albume",
+    "pic":"plain-black-t-shirt",
+    "nume": "Duckering",
+    "pret": 46.38,
+    "disponibil": true,
+    "oferta": false
+  }, {
+    "id": 45,
+    "tip": "albume",
+    "pic":"plain-black-t-shirt",
+    "nume": "Yeabsley",
+    "pret": 33.33,
+    "disponibil": false,
+    "oferta": false
+  }, {
+    "id": 46,
+    "tip": "albume",
+    "pic":"plain-black-t-shirt",
+    "nume": "Cabell",
+    "pret": 67.99,
+    "disponibil": true,
+    "oferta": true
+  }, {
+    "id": 47,
+    "tip": "albume",
+    "pic":"plain-black-t-shirt",
+    "nume": "Griffen",
+    "pret": 295.81,
+    "disponibil": true,
+    "oferta": false
+  }, {
+    "id": 48,
+    "tip": "tricouri",
+    "pic":"plain-black-t-shirt",
+    "nume": "O'Feeney",
+    "pret": 163.08,
+    "disponibil": true,
+    "oferta": true
+  }, {
+    "id": 49,
+    "tip": "tricouri",
+    "pic":"plain-black-t-shirt",
+    "nume": "Neylon",
+    "pret": 145.41,
+    "disponibil": true,
+    "oferta": true
+  }, {
+    "id": 50,
+    "tip": "albume",
+    "pic":"plain-black-t-shirt",
+    "nume": "Haycroft",
+    "pret": 268.0,
+    "disponibil": true,
+    "oferta": true
+  }, {
+    "id": 51,
+    "tip": "accesorii",
+    "pic":"plain-black-t-shirt",
+    "nume": "Shafto",
+    "pret": 265.64,
+    "disponibil": true,
+    "oferta": true
+  }, {
+    "id": 52,
+    "tip": "tricouri",
+    "pic":"plain-black-t-shirt",
+    "nume": "O'Hallagan",
+    "pret": 65.08,
+    "disponibil": true,
+    "oferta": false
+  }, {
+    "id": 53,
+    "tip": "albume",
+    "pic":"plain-black-t-shirt",
+    "nume": "Vallack",
+    "pret": 71.83,
+    "disponibil": true,
+    "oferta": true
+  }, {
+    "id": 54,
+    "tip": "accesorii",
+    "pic":"plain-black-t-shirt",
+    "nume": "Saket",
+    "pret": 163.45,
+    "disponibil": false,
+    "oferta": true
+  }, {
+    "id": 55,
+    "tip": "tricouri",
+    "pic":"plain-black-t-shirt",
+    "nume": "Abbey",
+    "pret": 90.43,
+    "disponibil": true,
+    "oferta": true
+  }, {
+    "id": 56,
+    "tip": "albume",
+    "pic":"plain-black-t-shirt",
+    "nume": "Esmonde",
+    "pret": 247.38,
+    "disponibil": true,
+    "oferta": true
+  }, {
+    "id": 57,
+    "tip": "accesorii",
+    "pic":"plain-black-t-shirt",
+    "nume": "Esplin",
+    "pret": 115.51,
+    "disponibil": true,
+    "oferta": false
+  }, {
+    "id": 58,
+    "tip": "albume",
+    "pic":"plain-black-t-shirt",
+    "nume": "Craister",
+    "pret": 245.89,
+    "disponibil": true,
+    "oferta": false
+  }, {
+    "id": 59,
+    "tip": "tricouri",
+    "pic":"plain-black-t-shirt",
+    "nume": "Le Noire",
+    "pret": 106.57,
+    "disponibil": false,
+    "oferta": false
+  }, {
+    "id": 60,
+    "tip": "accesorii",
+    "pic":"plain-black-t-shirt",
+    "nume": "Deveraux",
+    "pret": 196.48,
+    "disponibil": true,
+    "oferta": false
+  }, {
+    "id": 61,
+    "tip": "albume",
+    "pic":"plain-black-t-shirt",
+    "nume": "Welham",
+    "pret": 223.98,
+    "disponibil": false,
+    "oferta": false
+  }, {
+    "id": 62,
+    "tip": "albume",
+    "pic":"plain-black-t-shirt",
+    "nume": "Beurich",
+    "pret": 191.49,
+    "disponibil": true,
+    "oferta": false
+  }, {
+    "id": 63,
+    "tip": "tricouri",
+    "pic":"plain-black-t-shirt",
+    "nume": "Salling",
+    "pret": 142.29,
+    "disponibil": true,
+    "oferta": false
+  }, {
+    "id": 64,
+    "tip": "accesorii",
+    "pic":"plain-black-t-shirt",
+    "nume": "Meak",
+    "pret": 93.7,
+    "disponibil": true,
+    "oferta": false
+  }, {
+    "id": 65,
+    "tip": "accesorii",
+    "pic":"plain-black-t-shirt",
+    "nume": "Aires",
+    "pret": 174.72,
+    "disponibil": true,
+    "oferta": true
+  }, {
+    "id": 66,
+    "tip": "tricouri",
+    "pic":"plain-black-t-shirt",
+    "nume": "Troyes",
+    "pret": 208.14,
+    "disponibil": true,
+    "oferta": false
+  }, {
+    "id": 67,
+    "tip": "accesorii",
+    "pic":"plain-black-t-shirt",
+    "nume": "Kahan",
+    "pret": 60.22,
+    "disponibil": true,
+    "oferta": true
+  }, {
+    "id": 68,
+    "tip": "tricouri",
+    "pic":"plain-black-t-shirt",
+    "nume": "Wardingly",
+    "pret": 141.71,
+    "disponibil": true,
+    "oferta": true
+  }, {
+    "id": 69,
+    "tip": "accesorii",
+    "pic":"plain-black-t-shirt",
+    "nume": "Haig",
+    "pret": 275.28,
+    "disponibil": false,
+    "oferta": false
+  }, {
+    "id": 70,
+    "tip": "albume",
+    "pic":"plain-black-t-shirt",
+    "nume": "Groundwator",
+    "pret": 198.04,
+    "disponibil": false,
+    "oferta": false
+  }, {
+    "id": 71,
+    "tip": "albume",
+    "pic":"plain-black-t-shirt",
+    "nume": "MacIntosh",
+    "pret": 64.47,
+    "disponibil": true,
+    "oferta": true
+  }, {
+    "id": 72,
+    "tip": "albume",
+    "pic":"plain-black-t-shirt",
+    "nume": "Wyldbore",
+    "pret": 248.82,
+    "disponibil": true,
+    "oferta": false
+  }, {
+    "id": 73,
+    "tip": "tricouri",
+    "pic":"plain-black-t-shirt",
+    "nume": "Rodolphe",
+    "pret": 210.92,
+    "disponibil": true,
+    "oferta": true
+  }, {
+    "id": 74,
+    "tip": "albume",
+    "pic":"plain-black-t-shirt",
+    "nume": "Povah",
+    "pret": 62.24,
+    "disponibil": true,
+    "oferta": false
+  }, {
+    "id": 75,
+    "tip": "accesorii",
+    "pic":"plain-black-t-shirt",
+    "nume": "Baskeyfied",
+    "pret": 182.27,
+    "disponibil": true,
+    "oferta": false
+  }, {
+    "id": 76,
+    "tip": "accesorii",
+    "pic":"plain-black-t-shirt",
+    "nume": "Widdall",
+    "pret": 89.57,
+    "disponibil": true,
+    "oferta": true
+  }, {
+    "id": 77,
+    "tip": "tricouri",
+    "pic":"plain-black-t-shirt",
+    "nume": "Palk",
+    "pret": 237.62,
+    "disponibil": false,
+    "oferta": false
+  }, {
+    "id": 78,
+    "tip": "accesorii",
+    "pic":"plain-black-t-shirt",
+    "nume": "Pashbee",
+    "pret": 150.05,
+    "disponibil": true,
+    "oferta": true
+  }, {
+    "id": 79,
+    "tip": "albume",
+    "pic":"plain-black-t-shirt",
+    "nume": "Bayston",
+    "pret": 181.8,
+    "disponibil": false,
+    "oferta": false
+  }, {
+    "id": 80,
+    "tip": "accesorii",
+    "pic":"plain-black-t-shirt",
+    "nume": "Kilday",
+    "pret": 55.49,
+    "disponibil": false,
+    "oferta": true
+  }, {
+    "id": 81,
+    "tip": "albume",
+    "pic":"plain-black-t-shirt",
+    "nume": "Garnam",
+    "pret": 249.35,
+    "disponibil": false,
+    "oferta": true
+  }, {
+    "id": 82,
+    "tip": "albume",
+    "pic":"plain-black-t-shirt",
+    "nume": "Urridge",
+    "pret": 91.01,
+    "disponibil": false,
+    "oferta": false
+  }, {
+    "id": 83,
+    "tip": "tricouri",
+    "pic":"plain-black-t-shirt",
+    "nume": "Harlow",
+    "pret": 26.32,
+    "disponibil": false,
+    "oferta": false
+  }, {
+    "id": 84,
+    "tip": "tricouri",
+    "pic":"plain-black-t-shirt",
+    "nume": "Pinard",
+    "pret": 268.15,
+    "disponibil": false,
+    "oferta": false
+  }, {
+    "id": 85,
+    "tip": "accesorii",
+    "pic":"plain-black-t-shirt",
+    "nume": "Roskeilly",
+    "pret": 270.34,
+    "disponibil": true,
+    "oferta": false
+  }, {
+    "id": 86,
+    "tip": "accesorii",
+    "pic":"plain-black-t-shirt",
+    "nume": "Vize",
+    "pret": 56.57,
+    "disponibil": false,
+    "oferta": false
+  }, {
+    "id": 87,
+    "tip": "accesorii",
+    "pic":"plain-black-t-shirt",
+    "nume": "Monahan",
+    "pret": 46.77,
+    "disponibil": false,
+    "oferta": false
+  }, {
+    "id": 88,
+    "tip": "tricouri",
+    "pic":"plain-black-t-shirt",
+    "nume": "Twine",
+    "pret": 34.48,
+    "disponibil": true,
+    "oferta": false
+  }, {
+    "id": 89,
+    "tip": "albume",
+    "pic":"plain-black-t-shirt",
+    "nume": "Castagnasso",
+    "pret": 187.62,
+    "disponibil": false,
+    "oferta": false
+  }, {
+    "id": 90,
+    "tip": "accesorii",
+    "pic":"plain-black-t-shirt",
+    "nume": "Greenacre",
+    "pret": 92.38,
+    "disponibil": false,
+    "oferta": true
+  }, {
+    "id": 91,
+    "tip": "albume",
+    "pic":"plain-black-t-shirt",
+    "nume": "Tennet",
+    "pret": 202.06,
+    "disponibil": true,
+    "oferta": false
+  }, {
+    "id": 92,
+    "tip": "tricouri",
+    "pic":"plain-black-t-shirt",
+    "nume": "Culbard",
+    "pret": 270.85,
+    "disponibil": true,
+    "oferta": false
+  }, {
+    "id": 93,
+    "tip": "albume",
+    "pic":"plain-black-t-shirt",
+    "nume": "Knowller",
+    "pret": 131.57,
+    "disponibil": false,
+    "oferta": false
+  }, {
+    "id": 94,
+    "tip": "tricouri",
+    "pic":"plain-black-t-shirt",
+    "nume": "Gaule",
+    "pret": 49.43,
+    "disponibil": false,
+    "oferta": false
+  }, {
+    "id": 95,
+    "tip": "tricouri",
+    "pic":"plain-black-t-shirt",
+    "nume": "Kilfoyle",
+    "pret": 118.17,
+    "disponibil": true,
+    "oferta": true
+  }, {
+    "id": 96,
+    "tip": "albume",
+    "pic":"plain-black-t-shirt",
+    "nume": "Geratasch",
+    "pret": 74.3,
+    "disponibil": true,
+    "oferta": true
+  }, {
+    "id": 97,
+    "tip": "tricouri",
+    "pic":"plain-black-t-shirt",
+    "nume": "Tommis",
+    "pret": 268.6,
+    "disponibil": false,
+    "oferta": true
+  }, {
+    "id": 98,
+    "tip": "albume",
+    "pic":"plain-black-t-shirt",
+    "nume": "Vannoort",
+    "pret": 252.47,
+    "disponibil": false,
+    "oferta": true
+  }, {
+    "id": 99,
+    "tip": "accesorii",
+    "pic":"plain-black-t-shirt",
+    "nume": "Calder",
+    "pret": 225.08,
+    "disponibil": false,
+    "oferta": true
+  }, {
+    "id": 100,
+    "tip": "accesorii",
+    "pic":"plain-black-t-shirt",
+    "nume": "Dauber",
+    "pret": 211.54,
+    "disponibil": false,
+    "oferta": true
+  }]

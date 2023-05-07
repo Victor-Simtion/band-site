@@ -15,9 +15,11 @@ export function Concerte() {
         <h1>Concerte</h1>
       </div>
       <div className='continut'>
+        <div className='continutPrim'>
+
       {
         
-            <table  className="table table-hover table-dark">
+        <table  className="table table-hover table-dark">
               <thead className="thead-dark">
                 <tr>
                   {/* <th scope="col">#</th> */}
@@ -43,11 +45,12 @@ export function Concerte() {
                     </tr>
            
            
-                  ))}
+           ))}
                 </tbody>
             </table>  
       }
     
+      </div>
     </div>
   </> 
   )
