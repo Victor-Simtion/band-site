@@ -1,37 +1,117 @@
-[
-    {
-        "id": 1,
-        "name":"Album Name",
-        "pic":"album2",
-        "trList":[
-            "Track 1",
-            "Track 2",
-            "Track 3",
-            "Track 4"
-        ]
-    },
-
-    {
-        "id": 2,
-        "name":"Album Name",
-        "pic":"album4",
-        "trList":[
-            "Track 1",
-            "Track 2",
-            "Track 3",
-            "Track 4"
-        ]
-    },
-
-    {
-        "id": 3,
-        "name":"Album Name",
-        "pic":"album1",
-        "trList":[
-            "Track 1",
-            "Track 2",
-            "Track 3",
-            "Track 4"
-        ]
-    }
-]
+[{
+    "id": 1,
+    "name": "sapien urna pretium",
+    "pic": "album1",
+    "trList": ["ac",
+    "mi integer",
+    "magna vestibulum",
+    "a odio in",
+    "nulla tellus",
+    "volutpat dui maecenas",
+    "interdum mauris ullamcorper",
+    "etiam",
+    "enim"]
+  }, {
+    "id": 2,
+    "name": "in purus",
+    "pic": "album1",
+    "trList": ["aliquam lacus morbi quis",
+    "integer",
+    "libero quis orci nullam",
+    "suspendisse ornare",
+    "nibh in",
+    "congue"]
+  }, {
+    "id": 3,
+    "name": "morbi a ipsum integer",
+    "pic": "album3",
+    "trList": ["consectetuer adipiscing",
+    "orci luctus et ultrices",
+    "vestibulum velit id",
+    "ultrices posuere cubilia curae",
+    "interdum venenatis",
+    "turpis sed ante vivamus",
+    "suscipit a",
+    "a odio",
+    "convallis"]
+  }, {
+    "id": 4,
+    "name": "ipsum primis in faucibus",
+    "pic": "album2",
+    "trList": ["mauris laoreet ut rhoncus",
+    "non mattis",
+    "consectetuer adipiscing elit",
+    "massa"]
+  }, {
+    "id": 5,
+    "name": "at turpis a pede",
+    "pic": "album3",
+    "trList": ["odio condimentum id luctus",
+    "id massa id",
+    "turpis a",
+    "tellus nulla"]
+  }, {
+    "id": 6,
+    "name": "tellus",
+    "pic": "album3",
+    "trList": ["iaculis justo",
+    "tristique in",
+    "diam erat",
+    "turpis",
+    "felis fusce",
+    "amet turpis elementum"]
+  }, {
+    "id": 7,
+    "name": "libero nam dui proin",
+    "pic": "album1",
+    "trList": ["eros",
+    "risus dapibus augue vel",
+    "pede malesuada",
+    "dictumst aliquam augue",
+    "semper porta volutpat",
+    "in hac",
+    "sapien",
+    "orci eget",
+    "metus vitae ipsum aliquam",
+    "proin"]
+  }, {
+    "id": 8,
+    "name": "augue vel",
+    "pic": "album4",
+    "trList": ["sapien",
+    "diam erat fermentum justo",
+    "quis turpis sed",
+    "orci eget",
+    "nec nisi vulputate",
+    "amet justo",
+    "montes nascetur ridiculus"]
+  }, {
+    "id": 9,
+    "name": "pellentesque quisque porta",
+    "pic": "album3",
+    "trList": ["cras in purus eu",
+    "id pretium",
+    "nullam porttitor lacus",
+    "ligula suspendisse ornare",
+    "est et tempus semper",
+    "massa id nisl",
+    "congue diam id",
+    "elementum",
+    "velit nec nisi vulputate",
+    "sit amet"]
+  }, {
+    "id": 10,
+    "name": "vestibulum",
+    "pic": "album4",
+    "trList": ["nec nisi volutpat",
+    "neque",
+    "ullamcorper augue a suscipit",
+    "eu orci",
+    "luctus et",
+    "fringilla rhoncus",
+    "vestibulum quam sapien",
+    "semper rutrum nulla nunc",
+    "id ornare imperdiet",
+    "quam nec",
+    "magna vulputate luctus"]
+  }]

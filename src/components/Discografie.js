@@ -1,5 +1,7 @@
 import React from 'react'
-import AlbumList from './AlbumList'
+import Album from '../data/Album.json'; 
+import CardAlbum from './CardAlbum';
+
 
 export function Discografie() {
   return (
@@ -9,7 +11,19 @@ export function Discografie() {
         </div>
         <div className='continut'>
         <div className='continutPrim'>
-           <div ><AlbumList/></div>
+              <div >
+            {
+              Album && Album.map(album =>(
+                  <CardAlbum key={album.id}
+                    numeAlbum={album.name}
+                    pic={album.pic}  
+                    trList = {album.trList && album.trList.map(el=>(<p>{el}</p>))}
+                  />  
+                
+              ))
+            }
+          
+          </div>
          </div>
       </div>
         

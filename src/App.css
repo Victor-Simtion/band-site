@@ -28,8 +28,14 @@
 
 .navigatie{
   grid-area: 1 / 1 / 2 / 4; 
-  text-align: end;
 }
+
+.navigatie ul{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  padding: 30px;
+} 
 
 .navigatie ul li{
   margin-top: 10px;
@@ -177,8 +183,8 @@
 .navButon{
   background-color: var(--fundal);
   border-radius: 10px;
-  font-size: 15px;
-  padding: 5px;
+  font-size: 30px;
+  padding: 10px;
   cursor: pointer;
   margin-right: 10px;
   text-decoration: none;
@@ -186,6 +192,13 @@
   box-shadow: 4px 4px 5px var(--orange);
   border: none;
  
+}
+
+.navButon:hover{
+  background-color: var(--lime);
+  color: var(--fundal);
+  transform: scale(1.3);
+  box-shadow: 6px 6px 7px var(--gri);
 }
 
 
@@ -256,6 +269,44 @@
 
 .thead-dark{
   color: var(--orange);
+}
+
+/* card album */
+.albumCard{
+  display: grid;
+  grid-template-columns: 50% 50%;
+  grid-template-rows:60px auto ;
+  row-gap: 40px;
+  padding-top: 50px;
+  padding-bottom: 20px;
+  column-gap: 10px;
+}
+
+.albumCard h3{
+  grid-area: 1 / 1 / 2 / 3;
+  color:var(--lime);
+  text-decoration:underline ;
+  text-decoration-color: var(--gri);
+  text-decoration-style: double;
+}
+
+.albumimg{
+  grid-area: 2 / 1  /3 / 2;
+  display: flex;
+  justify-content: space-around;
+}
+
+.albumimg:hover{
+  transform: scale(1.3)
+}
+
+.trList{
+  grid-area: 2 / 2 / 3 / 3 ;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: flex-start;
+  padding-left: 20px;
 }
 
 /* crad produs */
