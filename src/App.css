@@ -191,6 +191,7 @@
   color:var(--lime);
   box-shadow: 4px 4px 5px var(--orange);
   border: none;
+  font-family:serif;
  
 }
 
@@ -270,6 +271,23 @@
 .thead-dark{
   color: var(--orange);
 }
+
+.mediaGrid{
+  display: grid;
+  grid-template-columns: repeat(4, 25%);
+  row-gap: 15px;
+  column-gap: 5px;
+}
+
+.mediaPic:hover{
+  cursor: pointer;
+  transform: scale(250%);
+  position: absolute;
+  left: 43%;
+  top: 50%;
+  transition: var(--transition-time);
+}
+
 
 /* card album */
 .albumCard{
